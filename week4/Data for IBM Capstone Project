@@ -1,11 +1,8 @@
 Data
 
 To help John in his search, we will need to access following data:
-
 - The Localities of Bogotá, Colombia from Wikipedia: https://es.wikipedia.org/wiki/Anexo:Localidades_de_Bogot%C3%A1
-
 - The coordinates (latitude, longitude) of these Localities of Bogotá from Open Street Map APIs
-
 - From Foursquare we will need following venues data:
   - The burger joint venues of the Localities
   - The offices venues of the Localities
